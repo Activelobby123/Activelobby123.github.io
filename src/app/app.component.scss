@@ -10,7 +10,7 @@
 }
 
 .cover-photo {
-    margin-top: 20px;
+    margin-top: 15px;
     position: relative;
     background: url(https://i.imgur.com/jxyuizJ.jpeg);
     background-size: cover;
@@ -21,10 +21,11 @@
 .profile_card {
     position: absolute;
     width: 120px;
+    height: 100px;
     bottom: -50px;
     background-color: gray;
     left: 15px;
-    border-radius: 60%;
+    border-radius: 100%;
     padding: 5px;
 }
 
